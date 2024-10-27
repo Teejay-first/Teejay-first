@@ -1,13 +1,9 @@
-<div align="center">
-    <img src="https://i.imgur.com/ikMZi8J.png" alt="forward" width="100%"/>
-</div>
 
 # 🚀 Vision-Driven Tech Entrepreneur | Teejay
 
 <div align="center">
-    <img src="https://i.imgur.com/9DgnDe7.jpeg" alt="Skeleton" width="30%" style="max-height: 200px; object-fit: cover;"/>
+    <img src="https://i.imgur.com/ikMZi8J.png" alt="forward" width="100%"/>
 </div>
-
 
 ## 💡 Building the Future at the Intersection of Business & Tech
 
