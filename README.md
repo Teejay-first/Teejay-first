@@ -7,8 +7,7 @@
 
 
 
-### 💡 Building the Future at the Intersection of Business & Tech
-
+## 💡 Building the Future at the Intersection of Business & Tech
 
 Transforming bold ideas into effective solutions. Former business strategist turning full-stack developer, leveraging dual expertise to create high-impact digital products that drive real business outcomes.
 
