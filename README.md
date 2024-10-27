@@ -1,6 +1,7 @@
 # 🚀 Vision-Driven Tech Entrepreneur | Teejay
-
-https://i.imgur.com/gpgRfiF.jpeg
+<div align="center">
+    <img src="https://i.imgur.com/gpgRfiF.jpeg" alt="forward" width="100%"/>
+</div>
 
 ## 💡 Building the Future at the Intersection of Business & Tech
 
