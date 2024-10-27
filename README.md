@@ -1,7 +1,7 @@
 # 🚀 Vision-Driven Tech Entrepreneur | Teejay
 
 <div align="center">
-    <iframe src="https://assets.pinterest.com/ext/embed.html?id=1092404453360037300" height="572" width="236" frameborder="0" scrolling="no" ></iframe>
+    <img src="[https://i.imgur.com/gpgRfiF.jpeg](https://assets.pinterest.com/ext/embed.html?id=1092404453360037300)" alt="forward" width="35%"/>
 </div>
 
 ## 💡 Building the Future at the Intersection of Business & Tech
