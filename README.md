@@ -54,11 +54,7 @@ I'm always open to:
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourhandle)
 
 ---
-<div style="display: flex; justify-content: space-between; margin: 20px 0;">
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="https://i.imgur.com/Skzhxpw.jpeg" alt="Dare to Jump" width="35%" style="max-height: 300px; object-fit: cover;"/>
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <img src="https://i.imgur.com/aurMw0s.jpeg" alt="Survival of the Fittest" width="35%" style="max-height: 300px; object-fit: cover;"/>
-    </div>
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/Skzhxpw.jpeg" width="400" />
+  <img src="https://i.imgur.com/aurMw0s.jpeg" width="400" />
+</p>
