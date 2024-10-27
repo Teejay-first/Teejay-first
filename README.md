@@ -2,14 +2,16 @@
 # 🚀 Vision-Driven Tech Entrepreneur | Teejay
 
 <div align="center">
-    <img src="https://i.imgur.com/ikMZi8J.png" alt="forward" width="100%" height="50%" />
+    <img src="https://i.imgur.com/ikMZi8J.png" alt="forward" width="100%" />
 </div
+
 
 
 
 ## 💡 Building the Future at the Intersection of Business & Tech
 
-Transforming bold ideas into effective solutions. Former business strategist turning full-stack developer, leveraging dual expertise to create high-impact digital products that drive real business outcomes.
+Transforming bold ideas into effective solutions. Former business strategist turning full-stack developer, leveraging data-driven approaches to create high-impact digital products that drive real business outcomes.
+
 
 ### 🎯 What I'm Building
 - 📊 **Software Ventures**: Developing network-driven SaaS ventures that aim to solve real-world problems.
