@@ -1,7 +1,7 @@
 # 🚀 Vision-Driven Tech Entrepreneur | Teejay
 
 <div align="center">
-  <img src="nauvi-staircase.png" alt="Your Banner" width="100%" />
+  <img src="nauvi-staircase.jpg" alt="Your Banner" width="100%" />
 </div>
 
 ## 💡 Building the Future at the Intersection of Business & Tech
