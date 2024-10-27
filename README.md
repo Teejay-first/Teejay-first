@@ -9,25 +9,6 @@ Transforming bold ideas into scalable solutions. Former business strategist turn
 - 🌐 **Digital Transformation**: Leading innovative projects that bridge tech gaps
 - 💹 **Growth Engineering**: Building scalable systems that accelerate business growth
 
-### 🔥 Core Tech Arsenal
-
-```javascript
-const techStack = {
-    frontend: {
-        core: ["HTML5", "CSS3", "JavaScript (ES6+)"],
-        frameworks: ["React", "Next.js"],
-        design: ["Figma", "Framer", "Canva"]
-    },
-    backend: {
-        runtime: ["Node.js"],
-        databases: ["Supabase", "PostgreSQL"],
-        deployment: ["Digital Ocean", "Netlify", "Vercel"]
-    },
-    noCode: ["Bubble.io", "Framer"],
-    AI: ["OpenAI API", "Claude API"],
-    devTools: ["Git", "Docker", "VS Code"]
-};
-```
 
 ### ⚡ Technology Ecosystem
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
