@@ -1,7 +1,7 @@
 # 🚀 Vision-Driven Tech Entrepreneur | Teejay
 
 <div align="center">
-    <img src="https://i.imgur.com/9DgnDe7.jpeg" alt="Skeleton" width="100%" style="max-height: 400px; object-fit: cover;"/>
+    <img src="https://i.imgur.com/9DgnDe7.jpeg" alt="Skeleton" width="30%" style="max-height: 400px; object-fit: cover;"/>
 </div>
 
 
@@ -55,9 +55,9 @@ I'm always open to:
 ---
 <div style="display: flex; justify-content: space-between; margin: 20px 0;">
     <div style="flex: 1; margin-right: 10px;">
-        <img src="https://i.imgur.com/Skzhxpw.jpeg" alt="Dare to Jump" width="100%" style="max-height: 300px; object-fit: cover;"/>
+        <img src="https://i.imgur.com/Skzhxpw.jpeg" alt="Dare to Jump" width="35%" style="max-height: 300px; object-fit: cover;"/>
     </div>
     <div style="flex: 1; margin-left: 10px;">
-        <img src="https://i.imgur.com/aurMw0s.jpeg" alt="Survival of the Fittest" width="100%" style="max-height: 300px; object-fit: cover;"/>
+        <img src="https://i.imgur.com/aurMw0s.jpeg" alt="Survival of the Fittest" width="35%" style="max-height: 300px; object-fit: cover;"/>
     </div>
 </div>
