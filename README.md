@@ -1,10 +1,15 @@
 # 🚀 Vision-Driven Tech Entrepreneur | Teejay
 
 <div align="center">
-    <img src="https://assets.pinterest.com/ext/embed.html?id=1092404453360037300" alt="forward" width="35%"/>
+    <img src="https://i.imgur.com/9DgnDe7.jpeg" alt="Skeleton" width="100%" style="max-height: 400px; object-fit: cover;"/>
 </div>
 
+
 ## 💡 Building the Future at the Intersection of Business & Tech
+
+<div align="center">
+    <img src="https://i.imgur.com/ikMZi8J.png" alt="forward" width="100%"/>
+</div>
 
 Transforming bold ideas into effective solutions. Former business strategist turning full-stack developer, leveraging dual expertise to create high-impact digital products that drive real business outcomes.
 
@@ -48,3 +53,11 @@ I'm always open to:
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourhandle)
 
 ---
+<div style="display: flex; justify-content: space-between; margin: 20px 0;">
+    <div style="flex: 1; margin-right: 10px;">
+        <img src="https://i.imgur.com/Skzhxpw.jpeg" alt="Dare to Jump" width="100%" style="max-height: 300px; object-fit: cover;"/>
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <img src="https://i.imgur.com/aurMw0s.jpeg" alt="Survival of the Fittest" width="100%" style="max-height: 300px; object-fit: cover;"/>
+    </div>
+</div>
