@@ -1,5 +1,9 @@
 # 🚀 Vision-Driven Tech Entrepreneur | Teejay
 
+<div align="center">
+  <img src="nauvi-staircase.png" alt="Your Banner" width="100%" />
+</div>
+
 ## 💡 Building the Future at the Intersection of Business & Tech
 
 Transforming bold ideas into effective solutions. Former business strategist turning full-stack developer, leveraging dual expertise to create high-impact digital products that drive real business outcomes.
