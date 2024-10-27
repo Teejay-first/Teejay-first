@@ -55,6 +55,6 @@ I'm always open to:
 
 ---
 <p align="center">
-  <img src="https://i.imgur.com/Skzhxpw.jpeg" width="400" />
-  <img src="https://i.imgur.com/aurMw0s.jpeg" width="400" />
+  <img src="https://i.imgur.com/Skzhxpw.jpeg" width="400" height="400" />
+  <img src="https://i.imgur.com/aurMw0s.jpeg" width="400" height="400"/>
 </p>
