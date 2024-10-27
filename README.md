@@ -1,16 +1,65 @@
-## Hi there 👋
+# 🚀 Vision-Driven Tech Entrepreneur | Teejay
 
-<!--
-**Teejay-first/Teejay-first** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Building the Future at the Intersection of Business & Tech
 
-Here are some ideas to get you started:
+Transforming bold ideas into scalable solutions. Former business strategist turning full-stack developer, leveraging dual expertise to create high-impact digital products that drive real business outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 What I'm Building
+- 📊 **Software Ventures**: Developing network drive SaaS ventures that aim to solve real-world problems.
+- 🌐 **Digital Transformation**: Leading innovative projects that bridge tech gaps
+- 💹 **Growth Engineering**: Building scalable systems that accelerate business growth
+
+### 🔥 Core Tech Arsenal
+
+```javascript
+const techStack = {
+    frontend: {
+        core: ["HTML5", "CSS3", "JavaScript (ES6+)"],
+        frameworks: ["React", "Next.js"],
+        design: ["Figma", "Framer", "Canva"]
+    },
+    backend: {
+        runtime: ["Node.js"],
+        databases: ["Supabase", "PostgreSQL"],
+        deployment: ["Digital Ocean", "Netlify", "Vercel"]
+    },
+    noCode: ["Bubble.io", "Framer"],
+    AI: ["OpenAI API", "Claude API"],
+    devTools: ["Git", "Docker", "VS Code"]
+};
+```
+
+### ⚡ Technology Ecosystem
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
+
+### 🎨 Design & No-Code Tools
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
+![Bubble](https://img.shields.io/badge/-Bubble.io-000000?style=for-the-badge)
+
+### 🤖 AI Integration
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=for-the-badge)
+
+
+### 🤝 Let's Build Something Amazing
+
+I'm always open to:
+- 🚀 High-impact collaborations
+- 💼 Strategic partnerships
+- 🧠 brainstorming
+
+### 📫 Connect & Collaborate
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jarietuytens/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourhandle)
+
+---
