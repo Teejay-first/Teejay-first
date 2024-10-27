@@ -5,7 +5,7 @@
 Transforming bold ideas into effective solutions. Former business strategist turning full-stack developer, leveraging dual expertise to create high-impact digital products that drive real business outcomes.
 
 ### 🎯 What I'm Building
-- 📊 **Software Ventures**: Developing network drive SaaS ventures that aim to solve real-world problems.
+- 📊 **Software Ventures**: Developing network-driven SaaS ventures that aim to solve real-world problems.
 - 🌐 **Digital Transformation**: Leading innovative projects that bridge tech gaps
 - 💹 **Growth Engineering**: Building scalable systems that accelerate business growth
 
