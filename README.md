@@ -10,7 +10,7 @@ Transforming bold ideas into effective solutions. Former business strategist tur
 ### 🎯 What I'm Building
 - 📊 **Software Ventures**: Developing network-driven SaaS ventures that aim to solve real-world problems.
 - 🌐 **Digital Transformation**: Leading innovative projects that bridge tech gaps
-- 💹 **Growth Engineering**: Building scalable systems that accelerate business growth
+- 💹 **Growth Engineering**: Building systems that accelerate business growth
 
 
 ### ⚡ Technology Ecosystem
