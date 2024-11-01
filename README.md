@@ -1,7 +1,4 @@
 
-# 🚀 Vision-Driven Tech Entrepreneur | Teejay
-
-
 ## 💡 Building the Future at the Intersection of Business & Tech
 
 Transforming bold ideas into effective solutions. Former business strategist turning full-stack developer, leveraging data-driven approaches to create high-impact digital products that drive real business outcomes.
