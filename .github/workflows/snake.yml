@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Automatically runs daily at midnight
+  workflow_dispatch:       # Allows you to manually trigger it
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Use a Linux server for running the job
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4   # Fetches your repository content
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3        # Runs the snake generator
+        with:
+          github_user_name: ${{ github.repository_owner }}   # Your GitHub username
+          outputs: |
+            dist/github-contribution-grid-snake.svg          # Generated snake file
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark  # Optional dark mode
+
+      - name: Upload Animation to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0  # Uploads files to GitHub Pages
+        with:
+          target_branch: output   # Creates an 'output' branch
+          build_dir: dist         # Uploads files from the 'dist' folder
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Authenticates the upload
