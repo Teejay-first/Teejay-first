@@ -1,6 +1,6 @@
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Teejay.Teejay-first" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=hello+There!+👋;+nice+to+e-meet+you!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=hello+There!+👋;+nice+to+e-meet+you!;" />
 </h1>
 
 
